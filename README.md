@@ -11,6 +11,7 @@
   <!-- Align image to the right to let text flow on the left without table borders -->
   <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAd/coding-typing.gif" align="right" width="300" />
 
+  <br></br>
   <div align="left">
     💻 <b>Currently working on</b><br/>
     Building and improving real-world backend systems  
