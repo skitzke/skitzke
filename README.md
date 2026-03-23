@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=skitzke.visitor-badge" />
+  <img src="[https://visitor-badge.glitch.me/badge?page_id=skitzke.visitor-badge](https://visitor-badge.imlete.cn/?id=github.skitzke.visitor-badge)" />
 </p>
 
 <h2 align="center">😄 About Me</h2>
@@ -11,29 +11,20 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAd/coding-typing.gif" width="300" />
-</p>
+</h5>
+  <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAd/coding-typing.gif" alt="side Image" align="right" width="300" height="auto" />
 
-<p align="center">
   💻 <b>Currently working on</b><br/>
   Building and improving real-world backend systems  
-</p>
 
-<p align="center">
   🧠 <b>Currently learning</b><br/>
   Scalable architecture, secure programming, and system design  
-</p>
 
-<p align="center">
   🔎 <b>Looking for</b><br/>
   Junior Software Developer opportunities  
-</p>
 
-<p align="center">
   ⚡ <b>Fun fact</b><br/>
   Interested in security, systems, and how things work under the hood  
-</p>
 
 ---
 
