@@ -1,4 +1,4 @@
-<h2 align="center">😄 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caner-%C3%A7elik-03baa1123/">
@@ -30,6 +30,7 @@ Junior Software Developer opportunities
 ⚡ <b>Fun fact</b><br/>
 Interested in security, systems, and how things work under the hood  
 
+<br/><br/>
 </td>
 
 <td width="40%" align="center">
