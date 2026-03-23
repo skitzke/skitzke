@@ -7,39 +7,26 @@
   </a>
 </p>
 
-<p align="center">
-<table align="center">
-<tr>
-<td width="60%">
+<div align="center">
+  <!-- Align image to the right to let text flow on the left without table borders -->
+  <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAd/coding-typing.gif" align="right" width="300" />
 
-💻 <b>Currently working on</b><br/>
-Building and improving real-world backend systems  
+  <div align="left">
+    💻 <b>Currently working on</b><br/>
+    Building and improving real-world backend systems  
+    <br/><br/>
+    🧠 <b>Currently learning</b><br/>
+    Scalable architecture, secure programming, and system design  
+    <br/><br/>
+    🔎 <b>Looking for</b><br/>
+    Junior Software Developer opportunities  
+    <br/><br/>
+    ⚡ <b>Fun fact</b><br/>
+    Interested in security, systems, and how things work under the hood  
+  </div>
+</div>
 
-<br/><br/>
-
-🧠 <b>Currently learning</b><br/>
-Scalable architecture, secure programming, and system design  
-
-<br/><br/>
-
-🔎 <b>Looking for</b><br/>
-Junior Software Developer opportunities  
-
-<br/><br/>
-
-⚡ <b>Fun fact</b><br/>
-Interested in security, systems, and how things work under the hood  
-
-<br/><br/>
-</td>
-
-<td width="40%" align="center">
-  <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAd/coding-typing.gif" width="300"/>
-</td>
-
-</tr>
-</table>
-</p>
+<br clear="right">
 
 ---
 
