@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://visitor-badge.imlete.cn/?id=github.skitzke.visitor-badge" />
-</p>
-
 <h2 align="center">😄 About Me</h2>
 
 <p align="center">
