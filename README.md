@@ -13,16 +13,16 @@
 
   <br></br>
   <div align="left">
-    💻 <b>Currently working on</b><br/>
+    <b>Currently working on:</b><br/>
     Building and improving real-world backend systems  
     <br/><br/>
-    🧠 <b>Currently learning</b><br/>
+    <b>Currently learning:</b><br/>
     Scalable architecture, secure programming, and system design  
     <br/><br/>
-    🔎 <b>Looking for</b><br/>
+    <b>Looking for:</b><br/>
     Junior Software Developer opportunities  
     <br/><br/>
-    ⚡ <b>Fun fact</b><br/>
+    <b>Fun fact:</b><br/>
     Interested in security, systems, and how things work under the hood  
   </div>
 </div>
