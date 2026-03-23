@@ -11,7 +11,8 @@
   </a>
 </p>
 
-<table>
+<p align="center">
+<table align="center">
 <tr>
 <td width="60%">
 
@@ -41,6 +42,7 @@ Interested in security, systems, and how things work under the hood
 
 </tr>
 </table>
+</p>
 
 ---
 
