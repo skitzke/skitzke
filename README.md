@@ -41,9 +41,9 @@
 
 <h2 align="center">📊 Github Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skitzke&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=skitzke&theme=dark&background=141321&hide_border=true" />
