@@ -33,7 +33,7 @@
   <br/><br/>
 
   <b>🚀 Side projects:</b><br/>
-  Building Plekia and experimenting with game development.
+  Building <a href="https://plekia.nl">Plekia</a> and experimenting with game development.
   <br/><br/>
 
   <b>⚡ What drives me:</b><br/>
@@ -48,107 +48,107 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>
-      Python
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/>
-      Java
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/>
+      <sub><b>Java</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/><br/>
-      C#
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/>
+      <sub><b>C#</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/><br/>
-      JavaScript
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>
-      Node.js
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/>
-      PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>
-      Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/>
-      Docker
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br/>
+      <sub><b>.NET</b><br/>&nbsp;</sub>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"/><br/>
-      Kubernetes
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/githubcopilot-dark.svg" width="48" height="48" alt="Copilot"/><br/>
+      <sub><b>GitHub<br/>Copilot</b></sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins"/><br/>
-      Jenkins
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" width="48" height="48" alt="Claude"/><br/>
+      <sub><b>Claude</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" alt="Google Cloud"/><br/>
-      Google Cloud
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mcp-dark.svg" width="48" height="48" alt="MCP"/><br/>
+      <sub><b>MCP</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="Amazon Web Services"/><br/>
-      AWS
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/>
+      <sub><b>AWS / Bedrock<br/>AgentCore</b></sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Microsoft Azure"/><br/>
-      Azure
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/><br/>
+      <sub><b>Azure</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>
-      MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br/>
-      Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET"/><br/>
-      .NET
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/><br/>
+      <sub><b>Google Cloud</b><br/>&nbsp;</sub>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" width="48" alt="GitHub Copilot"/><br/>
-      GitHub<br/>Copilot
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+      <sub><b>Docker</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="48" alt="Claude"/><br/>
-      Claude
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br/>
+      <sub><b>Kubernetes</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp" width="48" alt="Model Context Protocol"/><br/>
-      MCP
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/><br/>
+      <sub><b>Jenkins</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS — Amazon Bedrock AgentCore"/><br/>
-      Bedrock<br/>AgentCore
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible"/><br/>
+      <sub><b>Ansible</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/><br/>
-      VS Code
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/><br/>
+      <sub><b>Maven</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" alt="Apache Maven"/><br/>
-      Maven
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/azuredevops-dark.svg" width="48" height="48" alt="DevOps"/><br/>
+      <sub><b>Azure<br/>DevOps</b></sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" alt="Ansible"/><br/>
-      Ansible
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b><br/>&nbsp;</sub>
     </td>
-    <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=azuredevops" width="48" alt="Azure DevOps"/><br/>
-      Azure<br/>DevOps
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b><br/>&nbsp;</sub>
+    </td>
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/><br/>
+      <sub><b>Spring Boot</b><br/>&nbsp;</sub>
+    </td>
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b><br/>&nbsp;</sub>
+    </td>
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b><br/>&nbsp;</sub>
+    </td>
+    <td align="center" valign="middle" width="120" height="112">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/bitbucket-dark.svg" width="48" height="48" alt="Bitbucket"/><br/>
+      <sub><b>Bitbucket</b><br/>&nbsp;</sub>
     </td>
   </tr>
 </table>
@@ -159,7 +159,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=skitzke&theme=dark&background=141321&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=skitzke&theme=dark&background=141321&hide_border=true&border_radius=12"
     alt="GitHub contribution streak for skitzke"
   />
 </p>
