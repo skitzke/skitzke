@@ -1,7 +1,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <b>AI Engineer at ASML via Itility</b><br/>
+  <b>AI Engineer at ASML</b><br/>
   Building practical AI solutions that simplify complex workflows.
 </p>
 
